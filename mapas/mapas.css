@@ -18,7 +18,11 @@ body {
 .cardsmaterias{
     margin-left: 5vw;
     margin-top: 5vh;
-    
+    margin-bottom: 10vh;
+    display: grid;
+    column-gap: 2vw;
+    row-gap: 10vh;
+    grid-template-columns: auto auto auto;
 }
 
 .card{
