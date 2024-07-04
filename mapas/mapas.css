@@ -46,5 +46,6 @@ body {
 }
 
 .botppe:hover{
+    background-color: rgb(221, 176, 91);
     cursor: url(../src/sword.png), auto;
 }
